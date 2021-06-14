@@ -8,7 +8,7 @@ tm = 2
 def ask():
     print("ζ(s)")
     print("")
-    cmd1 = int(input("s = "))
+    cmd1 = complex(input("s = "))
     cmd2 = int(input("Accuracy = "))
     print("")
     ans(eq,tm,cmd1,cmd2)
