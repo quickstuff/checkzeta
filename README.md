@@ -3,4 +3,4 @@
 # Usage
 * Get the latest python (preinstalled in most Unix/Linux)
 * Open the terminal and cd to downloads: `cd Downloads`
-* Then enter the following `python3 zeta_of_s`
+* Then enter the following `python3 zeta_of_s.py`
